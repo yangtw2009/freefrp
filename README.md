@@ -10,9 +10,9 @@
 
 ``` wget http://yang.ddns.net:8000/yangfrp.sh ```
 
-安裝完成後輸入 ```chmod +x yangfrp.sh```
+安裝完成後輸入 ```chmod +x yangfrp.sh```給予相對應的權限
 
-然後後輸入 ```./uangfrp.sh``` 
+然後後輸入 ```./yangfrp.sh``` 
 
 接者它應該會請你輸入服務器信息
 以下為服務器信息
